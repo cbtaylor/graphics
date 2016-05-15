@@ -2,7 +2,7 @@ function penroseTiling() {
     var _width = 1200;
     var _height = 750;
     var _chart = {};
-    var _iterations = 12;
+    var _iterations = 10;
     var _svg;
     var _parentElement = d3.select("body");
     var _bodyG;
